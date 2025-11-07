@@ -3,9 +3,8 @@
 
 To analyze student event feedback data to:
 
-Identify satisfaction trends across multiple feedback categories.
-
-Recommend actionable improvements for enhancing the overall learning and event experience.
+1. Identify satisfaction trends across multiple feedback categories.
+2. Recommend actionable improvements for enhancing the overall learning and event experience.
 
 🧠 Project Overview
 
@@ -15,27 +14,22 @@ Through statistical summaries and visualization techniques, it uncovers how stud
 The analysis goes beyond averages—exploring rating distributions, variation ranges, and inter-category relationships—to offer precise insights and improvement strategies.
 
 📈 Key Insights
-🔹 Satisfaction Trends
 
-Faculty demonstrate strong subject expertise, reflected in consistently high ratings.
+🔹 Satisfaction Trends :-
 
-Concept clarity and presentation quality are moderate but vary across sessions.
+1. Faculty demonstrate strong subject expertise, reflected in consistently high ratings.
+2. Concept clarity and presentation quality are moderate but vary across sessions.
+3. Student support and doubt resolution show inconsistency, indicating uneven learner experiences.
+4. Feedback categories appear weakly correlated, suggesting students rated each dimension independently.
 
-Student support and doubt resolution show inconsistency, indicating uneven learner experiences.
+🔹 Improvement Recommendations :-
 
-Feedback categories appear weakly correlated, suggesting students rated each dimension independently.
+1. Standardize teaching methods for uniform content delivery.
+2. Boost engagement through visual aids and real-world examples.
+3. Strengthen student support systems via quicker query handling and mentorship.
+4. Align course structure and relevance to ensure cohesive and balanced learning outcomes.
 
-🔹 Improvement Recommendations
-
-Standardize teaching methods for uniform content delivery.
-
-Boost engagement through visual aids and real-world examples.
-
-Strengthen student support systems via quicker query handling and mentorship.
-
-Align course structure and relevance to ensure cohesive and balanced learning outcomes.
-
-🧩 Tech Stack & Tools
+🧩 Tech Stack & Tools :-
 
 Language: Python
 
@@ -45,23 +39,17 @@ Environment: Jupyter Notebook / Google Colab
 
 Visualization Techniques:
 
-Horizontal Bar Plot (Average Ratings)
+1. Horizontal Bar Plot (Average Ratings)
+2. Box Plot (Rating Distribution)
+3. Histogram with KDE (Frequency Spread)
+4. Correlation Heatmap (Inter-category Relationship)
 
-Box Plot (Rating Distribution)
+📊 Analytical Workflow:
 
-Histogram with KDE (Frequency Spread)
-
-Correlation Heatmap (Inter-category Relationship)
-
-📊 Analytical Workflow
-
-Data Exploration: Inspected structure, handled missing values, and ensured data consistency.
-
-Descriptive Analysis: Computed mean, median, and range for each feedback category.
-
-Visualization: Built comparative charts to illustrate rating trends and variability.
-
-Interpretation: Derived actionable insights to support data-driven decisions.
+1. Data Exploration: Inspected structure, handled missing values, and ensured data consistency.
+2. Descriptive Analysis: Computed mean, median, and range for each feedback category.
+3. Visualization: Built comparative charts to illustrate rating trends and variability.
+4. Interpretation: Derived actionable insights to support data-driven decisions.
 
 🧾 Project Outcome
 
